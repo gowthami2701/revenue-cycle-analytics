@@ -4,7 +4,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Tools](https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20Power%20BI-blue)
 ![Data](https://img.shields.io/badge/Data-CMS%20Medicare%20Public%20Use-orange)
-![Dashboard](dashboard.png):
+![Power BI Dashboard](powerbi_dashboard.png)
 ---
 
 ## 📌 Business Problem
